@@ -1,5 +1,5 @@
 # trigger
-Demos of seismic phase
+Matlab script Demos of seismic phase characteristic function.
 ## STA/LTA.m
 Demo of Allen's STA/LTA characteristic function.
 ## AIC.m
@@ -7,4 +7,4 @@ Demo of AIC.
 ## KT.m
 Demo of Kurtosis characteristic function.
 ## PO.m
-Demo of Polerization Analysis.
+Demo of polerization analysis for filter P and S.
